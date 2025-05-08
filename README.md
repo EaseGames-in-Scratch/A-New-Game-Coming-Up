@@ -6,4 +6,4 @@ Guess this game. This is like the first game, just replaced with underwater.
 <br><br>More about the page
 <br><a href="scratch.mit.edu/users/EaseGames">Support us</a>
 <br><a href="scratch.mit.edu/projects/1165470989">The First Game Ever in EaseGames</a>
-<br><a href="github.com/EaseGames-in Scratch/EaseGames-in Scratch">Manual</a>
+<br><a href="https://github.com/EaseGames-in-Scratch/EaseGames-in-Scratch_Manual-and-Equipment">Manual</a>
